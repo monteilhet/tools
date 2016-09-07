@@ -1,33 +1,33 @@
 
 # Diagrams
 
-**online UML tool**
+*Online UML tool*
 
 + http://www.umlet.com/umletino/umletino.html
 
-**flowcharts, org charts, UML, network diagrams**
+*Flowcharts, org charts, UML, network diagrams*
 
 + https://www.gliffy.com/
 
 
 # Regular expression sandbox
 
-**online tools to learn, build, & test Regular Expressions**
+*Online tools to learn, build, & test Regular Expressions*
 
 + http://www.regexpal.com/
 + https://regex101.com/
 + http://www.regexr.com/
 
-**regexp game**
+*Regexp game*
 https://regexcrossword.com/
 
 # Ascii art generator
 
-**generate diagram with ascii**
+*Generate diagram with ascii*
 
 + http://asciiflow.com/
 
-**text to ascii art**
+*Text to ascii art*
 
 + http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something
 + http://www.network-science.de/ascii/
@@ -37,12 +37,26 @@ https://regexcrossword.com/
 + https://stackedit.io/editor
 + http://dillinger.io/
 
-# Compiler
+# Programming / Compiler
 
 + http://www.compileonline.com/
+
 + http://www.tutorialspoint.com/codingground.htm
 + http://www.tutorialspoint.com/compile_cpp_online.php
 + http://www.tutorialspoint.com/ipython_terminal_online.php
 
-**solve practice problems in over 30 different languages.**
+*Solve practice problems in over 30 different languages.*
 + http://exercism.io/
+
+# Web
+
+*Shorten, brand and optimize your links*
++ https://bitly.com/
+
+*Free, automated, and open certificate authority*
++ https://letsencrypt.org/
+
+
+
+
+
