@@ -43,3 +43,6 @@ https://regexcrossword.com/
 + http://www.tutorialspoint.com/codingground.htm
 + http://www.tutorialspoint.com/compile_cpp_online.php
 + http://www.tutorialspoint.com/ipython_terminal_online.php
+
+**solve practice problems in over 30 different languages.**
++ http://exercism.io/
