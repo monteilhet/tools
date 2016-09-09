@@ -48,6 +48,9 @@ https://regexcrossword.com/
 *Solve practice problems in over 30 different languages.*
 + http://exercism.io/
 
+*hacking*
+https://www.root-me.org/
+
 # Web
 
 *Shorten, brand and optimize your links*
