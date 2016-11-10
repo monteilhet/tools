@@ -53,13 +53,17 @@ https://www.root-me.org/
 
 # Web
 
+*pastebin  site*
++ https://bpaste.net/
++ http://pastebin.com/
+
 *Shorten, brand and optimize your links*
 + https://bitly.com/
 
 *Free, automated, and open certificate authority*
 + https://letsencrypt.org/
 
-# Inage conversion
+# Image conversion
 
 + http://icoconvert.com/icon_to_image_converter/
 + https://www.onlineconverter.com/
