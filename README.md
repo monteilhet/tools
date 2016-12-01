@@ -51,6 +51,11 @@ https://regexcrossword.com/
 *hacking*
 https://www.root-me.org/
 
+# crypto hash generator
+
++ http://www.supportduweb.com/cryptographie-algorithme-hash-sha1-sha256-generateurr-whirlpool-outil-crypt-ennline-cryptographie-hash-algorithme.html
++ http://www.xorbin.com/tools/sha256-hash-calculator
+
 # Web
 
 *pastebin  site*
