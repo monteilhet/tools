@@ -1,5 +1,7 @@
 
-# Diagrams
+# Office
+
+## Diagrams
 
 *Online UML tool*
 
@@ -7,21 +9,22 @@
 
 *Flowcharts, org charts, UML, network diagrams*
 
-+ https://www.gliffy.com/
 + https://www.draw.io/
++ https://www.gliffy.com/
 
-# Regular expression sandbox
 
-*Online tools to learn, build, & test Regular Expressions*
+## Image conversion
 
-+ http://www.regexpal.com/
-+ https://regex101.com/
-+ http://www.regexr.com/
++ http://icoconvert.com/icon_to_image_converter/
++ https://www.onlineconverter.com/
++ http://www.convertir-une-image.com/
 
-*Regexp game*
-https://regexcrossword.com/
+## Markdown editor
 
-# Ascii art generator
++ https://stackedit.io/editor
++ http://dillinger.io/
+
+## Ascii art generator
 
 *Generate diagram with ascii*
 
@@ -32,45 +35,70 @@ https://regexcrossword.com/
 + http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something
 + http://www.network-science.de/ascii/
 
-# Markdown editor
+# Web
 
-+ https://stackedit.io/editor
-+ http://dillinger.io/
+## misc
 
-# Programming / Compiler
+*pastebin  site*
+
++ https://bpaste.net/
++ http://pastebin.com/
+
+*Shorten, brand and optimize your links*
+
++ https://bitly.com/
+
+*Free, automated, and open certificate authority*
+
++ https://letsencrypt.org/
+
+## Crypto hash generator
+
++ http://www.supportduweb.com/cryptographie-algorithme-hash-sha1-sha256-generateurr-whirlpool-outil-crypt-ennline-cryptographie-hash-algorithme.html
++ http://www.xorbin.com/tools/sha256-hash-calculator
+
+
+
+# Dev
+
+## Regular expression sandbox
+
+*Online tools to learn, build, & test Regular Expressions*
+
++ http://www.regexpal.com/
++ https://regex101.com/
++ http://www.regexr.com/
+
+*Regexp game*
+https://regexcrossword.com/
+
+## Programming / Compiler
 
 + http://www.compileonline.com/
 
-+ http://www.tutorialspoint.com/codingground.htm
 + http://www.tutorialspoint.com/compile_cpp_online.php
 + http://www.tutorialspoint.com/ipython_terminal_online.php
 
 *Solve practice problems in over 30 different languages.*
+
 + http://exercism.io/
 
 *hacking*
 https://www.root-me.org/
 
-# crypto hash generator
 
-+ http://www.supportduweb.com/cryptographie-algorithme-hash-sha1-sha256-generateurr-whirlpool-outil-crypt-ennline-cryptographie-hash-algorithme.html
-+ http://www.xorbin.com/tools/sha256-hash-calculator
+## Online IDE
 
-# Web
++ tutorialspoint : http://www.tutorialspoint.com/codingground.htm
++ Cloud9 IDE :  https://c9.io/
++ codeboard : https://codeboard.io/
++ ideone : http://ideone.com/
++ codenvy : https://codenvy.io
++ codechef : https://www.codechef.com/ide
++ jdoodle : https://www.jdoodle.com/
 
-*pastebin  site*
-+ https://bpaste.net/
-+ http://pastebin.com/
 
-*Shorten, brand and optimize your links*
-+ https://bitly.com/
+## Cross Platform Cloud IDE
 
-*Free, automated, and open certificate authority*
-+ https://letsencrypt.org/
-
-# Image conversion
-
-+ http://icoconvert.com/icon_to_image_converter/
-+ https://www.onlineconverter.com/
-+ http://www.convertir-une-image.com/
-
++ https://codeanywhere.com/
++ https://shiftedit.net/
