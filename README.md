@@ -65,9 +65,10 @@
 
 *Online tools to learn, build, & test Regular Expressions*
 
-+ http://www.regexpal.com/
 + https://regex101.com/
 + http://www.regexr.com/
++ http://www.regexpal.com/
+
 
 *Regexp game*
 https://regexcrossword.com/
