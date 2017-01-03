@@ -37,7 +37,7 @@
 
 # Web
 
-## misc
+## Misc
 
 *pastebin  site*
 
@@ -72,6 +72,11 @@
 
 *Regexp game*
 https://regexcrossword.com/
+
+## Bash prompt generator
+
++ http://bashrcgenerator.com/
++ https://www.kirsle.net/wizards/ps1.html
 
 ## Programming / Compiler
 
