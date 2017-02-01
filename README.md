@@ -13,6 +13,11 @@
 + https://www.gliffy.com/
 
 
+## Mindmapping
+
++ http://mindmapfree.com/
++ http://www.wisemapping.com/
+
 ## Image conversion
 
 + http://icoconvert.com/icon_to_image_converter/
