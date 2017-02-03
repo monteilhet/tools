@@ -1,6 +1,18 @@
 
 # Office
 
+## Spelling
+
++ http://bonpatron.com/
++ https://www.scribens.fr/
++ http://www.francaisfacile.com/speller/
+
+## Translation
+
++ https://translate.google.fr/
++ http://www.systranet.com/fr/fr/traduction/
++ http://www.lexilogos.com/traduction_multilingue.htm
+
 ## Diagrams
 
 *Online UML tool*
