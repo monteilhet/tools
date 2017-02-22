@@ -1,7 +1,7 @@
 
 # Office
 
-## Spelling
+## French Spelling
 
 + http://bonpatron.com/
 + https://www.scribens.fr/
@@ -74,7 +74,16 @@
 + http://www.supportduweb.com/cryptographie-algorithme-hash-sha1-sha256-generateurr-whirlpool-outil-crypt-ennline-cryptographie-hash-algorithme.html
 + http://www.xorbin.com/tools/sha256-hash-calculator
 
+## Color tools
 
++ https://color.adobe.com/fr/create/color-wheel/
++ http://colorexplorer.com/colorpicker.aspx
++ http://www.colorspire.com/
+
+*palettes samples*
++ https://color.adobe.com/fr/explore/newest/
++ http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project
++ https://designschool.canva.com/blog/100-color-combinations/
 
 # Dev
 
