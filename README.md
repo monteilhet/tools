@@ -36,7 +36,7 @@
 + https://www.onlineconverter.com/
 + http://www.convertir-une-image.com/
 
-## Markdown editor
+## Markdown editor
 
 + https://stackedit.io/editor
 + http://dillinger.io/
@@ -69,10 +69,19 @@
 
 + https://letsencrypt.org/
 
-## Crypto hash generator
+
+## Security
+
+### Crypto hash generator
 
 + http://www.supportduweb.com/cryptographie-algorithme-hash-sha1-sha256-generateurr-whirlpool-outil-crypt-ennline-cryptographie-hash-algorithme.html
 + http://www.xorbin.com/tools/sha256-hash-calculator
+
+
+### Password strength checker
+
++ http://www.passwordmeter.com/
++ https://password.kaspersky.com/
 
 ## Color tools
 
@@ -85,9 +94,9 @@
 + http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project
 + https://designschool.canva.com/blog/100-color-combinations/
 
-# Dev
+# Dev
 
-## books
+## Books
 
 + https://devfreebooks.github.io/
 
@@ -108,7 +117,7 @@ https://regexcrossword.com/
 + http://bashrcgenerator.com/
 + https://www.kirsle.net/wizards/ps1.html
 
-## Programming / Compiler
+## Programming / Compiler
 
 + http://www.compileonline.com/
 
