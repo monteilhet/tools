@@ -88,6 +88,8 @@
 + https://color.adobe.com/fr/create/color-wheel/
 + http://colorexplorer.com/colorpicker.aspx
 + http://www.colorspire.com/
++ https://galactic.ink/sphere/
++ http://www.ficml.org/jemimap/style/color/wheel.html
 
 *palettes samples*
 + https://color.adobe.com/fr/explore/newest/
