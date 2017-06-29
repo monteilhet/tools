@@ -67,8 +67,12 @@
 
 *Free, automated, and open certificate authority*
 
-+ https://letsencrypt.org/
++ https://letsencrypt.org/ --
 
+## GIS
+
++ https://www.coordonnees-gps.fr/
++ https://www.gps-coordinates.net/
 
 ## Security
 
