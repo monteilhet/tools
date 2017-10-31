@@ -67,7 +67,7 @@
 
 *Free, automated, and open certificate authority*
 
-+ https://letsencrypt.org/ --
++ https://letsencrypt.org/ 
 
 ## GIS
 
@@ -81,11 +81,14 @@
 + http://www.supportduweb.com/cryptographie-algorithme-hash-sha1-sha256-generateurr-whirlpool-outil-crypt-ennline-cryptographie-hash-algorithme.html
 + http://www.xorbin.com/tools/sha256-hash-calculator
 
-
 ### Password strength checker
 
 + http://www.passwordmeter.com/
 + https://password.kaspersky.com/
+
+### Password Generator
+
++ https://www.generateurdemotdepasse.com/
 
 ## Color tools
 
