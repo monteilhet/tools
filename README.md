@@ -116,6 +116,8 @@
 + https://regex101.com/
 + http://www.regexr.com/
 + http://www.regexpal.com/
++ https://pythex.org/
++ http://rubular.com
 
 
 *Regexp game*
@@ -125,6 +127,10 @@ https://regexcrossword.com/
 
 + http://bashrcgenerator.com/
 + https://www.kirsle.net/wizards/ps1.html
+
+## Cron maker
+
+ + http://www.cronmaker.com/
 
 ## Programming / Compiler
 
