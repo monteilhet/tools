@@ -1,3 +1,33 @@
+Table of Contents
+=================
+
+   * [Office](#office)
+      * [French Spelling](#french-spelling)
+      * [Translation](#translation)
+      * [Diagrams](#diagrams)
+      * [Mindmapping](#mindmapping)
+      * [Image conversion](#image-conversion)
+      * [Markdown editor](#markdown-editor)
+      * [Ascii art generator](#ascii-art-generator)
+   * [Web](#web)
+      * [Misc](#misc)
+      * [GIS](#gis)
+      * [Security](#security)
+         * [Crypto hash generator](#crypto-hash-generator)
+         * [Password strength checker](#password-strength-checker)
+         * [Password Generator](#password-generator)
+      * [Color tools](#color-tools)
+   * [System](#system)
+      * [Cron maker](#cron-maker)
+      * [CIDR calculator](#cidr-calculator)
+      * [Bash prompt generator](#bash-prompt-generator)
+   * [Dev](#dev)
+      * [Books](#books)
+      * [Regular expression sandbox](#regular-expression-sandbox)
+      * [Programming / Compiler](#programming--compiler)
+      * [Online IDE](#online-ide)
+      * [Cross Platform Cloud IDE](#cross-platform-cloud-ide)
+
 
 # Office
 
@@ -103,6 +133,22 @@
 + http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project
 + https://designschool.canva.com/blog/100-color-combinations/
 
+# System
+
+## Cron maker
+
+ + http://www.cronmaker.com/
+
+## CIDR calculator
+
+ + http://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/
+
+## Bash prompt generator
+
++ http://bashrcgenerator.com/
++ https://www.kirsle.net/wizards/ps1.html
+
+
 # Dev
 
 ## Books
@@ -123,14 +169,6 @@
 *Regexp game*
 https://regexcrossword.com/
 
-## Bash prompt generator
-
-+ http://bashrcgenerator.com/
-+ https://www.kirsle.net/wizards/ps1.html
-
-## Cron maker
-
- + http://www.cronmaker.com/
 
 ## Programming / Compiler
 
@@ -162,3 +200,4 @@ https://www.root-me.org/
 
 + https://codeanywhere.com/
 + https://shiftedit.net/
+
