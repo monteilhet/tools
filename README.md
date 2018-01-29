@@ -147,6 +147,7 @@ Table of Contents
 ## Network Tools
 
  + https://mxtoolbox.com/NetworkTools.aspx
+ + https://mxtoolbox.com/SuperTool.aspx
 
 ## Bash prompt generator
 
