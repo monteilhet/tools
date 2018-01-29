@@ -20,6 +20,7 @@ Table of Contents
    * [System](#system)
       * [Cron maker](#cron-maker)
       * [CIDR calculator](#cidr-calculator)
+      * [Network Tools](#network-tools)
       * [Bash prompt generator](#bash-prompt-generator)
    * [Dev](#dev)
       * [Books](#books)
@@ -142,6 +143,10 @@ Table of Contents
 ## CIDR calculator
 
  + http://cric.grenoble.cnrs.fr/Administrateurs/Outils/CalculMasque/
+
+## Network Tools
+
+ + https://mxtoolbox.com/NetworkTools.aspx
 
 ## Bash prompt generator
 
