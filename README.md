@@ -2,6 +2,7 @@ Table of Contents
 =================
 
    * [Office](#office)
+      * [Web Conf](#web-conf)
       * [French Spelling](#french-spelling)
       * [Translation](#translation)
       * [Diagrams](#diagrams)
@@ -32,11 +33,16 @@ Table of Contents
 
 # Office
 
+## Web conf
+
++ https://appear.in/
+
 ## French Spelling
 
 + http://bonpatron.com/
 + https://www.scribens.fr/
 + http://www.francaisfacile.com/speller/
++ http://www.conjuguetamere.com/
 
 ## Translation
 
@@ -148,6 +154,9 @@ Table of Contents
 
  + https://mxtoolbox.com/NetworkTools.aspx
  + https://mxtoolbox.com/SuperTool.aspx
+ 
+*Alt dns* 
+ + https://1.0.0.1
 
 ## Bash prompt generator
 
