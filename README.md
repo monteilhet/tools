@@ -51,6 +51,7 @@ Table of Contents
 + https://translate.google.fr/
 + http://www.systranet.com/fr/fr/traduction/
 + http://www.lexilogos.com/traduction_multilingue.htm
++ https://www.deepl.com/translator
 
 ## Diagrams
 
