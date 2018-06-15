@@ -87,6 +87,10 @@ Table of Contents
 
 + http://asciiflow.com/
 
+*Generate diagram from ascii*
+
++ http://shaky.github.bushong.net/
+
 *Text to ascii art*
 
 + http://patorjk.com/software/taag/#p=display&f=Graffiti&t=Type%20Something
