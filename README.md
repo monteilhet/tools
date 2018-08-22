@@ -87,6 +87,7 @@ Table of Contents
 *Generate diagram with ascii*
 
 + http://asciiflow.com/
++ http://www.asciidraw.com/#Draw
 
 *Generate diagram from ascii*
 
@@ -100,6 +101,11 @@ Table of Contents
 # Web
 
 ## Misc
+
+*sample site*
+ + http://perdu.com
+ + http://www.example.com
+ + https://badssl.com/
 
 *pastebin  site*
 
