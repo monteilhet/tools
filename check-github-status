@@ -1,6 +1,8 @@
 #!/bin/bash
 
-for i in ../*
+GITHUB_PATH=~/git/github
+
+for i in ${GITHUB_PATH}/*
 do 
     printf -- "-------------------------\nCheck $i\n\n"
     git -C $i status
