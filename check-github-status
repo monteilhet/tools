@@ -1,4 +1,8 @@
 #!/bin/bash
 
-for i in ../*; do git -C $i status; done
+for i in ../*
+do 
+    printf -- "-------------------------\nCheck $i\n\n"
+    git -C $i status
+done
 
