@@ -158,7 +158,9 @@ Table of Contents
 
 ## Cron maker
 
- + http://www.cronmaker.com/
+ + https://crontab.guru/
+ + http://www.cronmaker.com/  (quartz cron format)
+
 
 ## CIDR calculator
 
