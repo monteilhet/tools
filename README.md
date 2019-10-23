@@ -144,6 +144,7 @@ Table of Contents
 
 ## Color tools
 
++ https://www.colorhexa.com/
 + https://color.adobe.com/fr/create/color-wheel/
 + http://colorexplorer.com/colorpicker.aspx
 + http://www.colorspire.com/
