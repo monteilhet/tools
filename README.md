@@ -152,7 +152,8 @@ Table of Contents
 *palettes samples*
 + https://color.adobe.com/fr/explore/newest/
 + http://www.dtelepathy.com/blog/inspiration/beautiful-color-palettes-for-your-next-web-project
-+ https://designschool.canva.com/blog/100-color-combinations/
++ https://www.canva.com/learn/brand-color-palette/
++ https://www.canva.com/learn/100-color-combinations/
 
 # System
 
