@@ -112,6 +112,7 @@ Table of Contents
 
 + https://bpaste.net/
 + http://pastebin.com/
++ https://paste.centos.org/
 
 *Shorten, brand and optimize your links*
 
