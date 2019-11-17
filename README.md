@@ -175,6 +175,9 @@ Table of Contents
  + https://mxtoolbox.com/NetworkTools.aspx
  + https://mxtoolbox.com/SuperTool.aspx
  
+*wildcard DNS for everyone*
+ + http://xip.io/
+ 
 *Alt dns* 
  + https://1.0.0.1
 
