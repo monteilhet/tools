@@ -25,6 +25,7 @@ Table of Contents
       * [Bash prompt generator](#bash-prompt-generator)
    * [Dev](#dev)
       * [Books](#books)
+      * [Tools](#tools)
       * [Regular expression sandbox](#regular-expression-sandbox)
       * [Programming / Compiler](#programming--compiler)
       * [Online IDE](#online-ide)
@@ -179,7 +180,7 @@ Table of Contents
  + http://xip.io/
  
 *Alt dns* 
- + https://1.0.0.1
+ + https://1.0.0.1 or https://1.1.1.1 (cloudflare)
 
 ## Bash prompt generator
 
@@ -192,6 +193,10 @@ Table of Contents
 ## Books
 
 + https://devfreebooks.github.io/
+
+## Tools
+
++ http://bitwisecmd.com
 
 ## Regular expression sandbox
 
