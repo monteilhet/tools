@@ -37,7 +37,8 @@ Table of Contents
 ## Web utils
 
 + https://www.skype.com/fr/free-conference-call/
-+ https://appear.in/
++ http://www.hemingwayapp.com/ (makes your writing bold and clear)
++ https://www.grammarly.com/ (Grammarly’s AI-powered writing assistant)
 + https://fr.surveymonkey.com
 + https://encrypted.google.com/
 
