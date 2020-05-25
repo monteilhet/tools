@@ -41,6 +41,8 @@ Table of Contents
 + https://www.grammarly.com/ (Grammarly’s AI-powered writing assistant)
 + https://fr.surveymonkey.com
 + https://encrypted.google.com/
++ https://etherpad.wikimedia.org/ (etherpad)
++ https://framapad.org/fr/ (etherpad)
 
 ## French Spelling
 
@@ -120,6 +122,7 @@ Table of Contents
 *Shorten, brand and optimize your links*
 
 + https://bitly.com/
++ https://tinyurl.com/
 
 *Free, automated, and open certificate authority*
 
