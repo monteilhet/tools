@@ -153,6 +153,7 @@ Table of Contents
 
 + https://www.colorhexa.com/
 + https://color.adobe.com/fr/create/color-wheel/
++ https://htmlcolorcodes.com/color-chart/
 + http://colorexplorer.com/colorpicker.aspx
 + http://www.colorspire.com/
 + https://galactic.ink/sphere/
