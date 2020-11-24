@@ -43,6 +43,7 @@ Table of Contents
 + https://encrypted.google.com/
 + https://etherpad.wikimedia.org/ (etherpad)
 + https://framapad.org/fr/ (etherpad)
++ https://cryptpad.fr
 
 ## French Spelling
 
@@ -69,7 +70,7 @@ Table of Contents
 
 + https://www.draw.io/
 + https://www.gliffy.com/
-
++ https://excalidraw.com/
 
 ## Mindmapping
 
